@@ -1,5 +1,4 @@
 
-See the project on (Glitch)[https://chatter-icon.glitch.me/]
 
 # API Project: Timestamp Microservice for FCC
 
